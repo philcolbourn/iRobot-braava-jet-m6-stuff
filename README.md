@@ -24,6 +24,7 @@ Board is built from a number of chips from Qualcomm including APQ8009.
 
 ![signal-2024-01-21-19-43-41-634](https://github.com/philcolbourn/iRobot-braava-jet-m6-stuff/assets/3045809/32837b88-8b1a-4589-933b-24c2fac77792)
 
+FCC info and pictures: https://fccid.io/UFEAXE-Y1
 
 Board has a number of labelled pads: VBUS, FUB/FU8, GND, DM, DP, PWR, USB_DL, VIN_4.2, V_1.6 and on back: USB_ID and CAM_GPO
 
