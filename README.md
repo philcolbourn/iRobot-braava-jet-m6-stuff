@@ -4,6 +4,14 @@ What I know about SoC and USB interface
 # History
 My Braava died - water ingress into sealed SoC/camera module.
 
+When battery is inserted, it boots for about 30s and then there is one or two beeps and LED ring lights up red.
+
+After this I get a white LED ring followed by one or two beeps and red ring again.
+
+This repeats forever it seems.
+
+Sometimes beeps seem to be different tones.
+
 ![signal-2024-01-21-13-49-02-726](https://github.com/philcolbourn/iRobot-braava-jet-m6-stuff/assets/3045809/9a31cabf-b56e-4d19-9dd9-6d71920ec42b)
 
 ![signal-2024-01-21-13-52-14-124](https://github.com/philcolbourn/iRobot-braava-jet-m6-stuff/assets/3045809/a948ef03-ed33-4800-8689-a18e1771260b)
