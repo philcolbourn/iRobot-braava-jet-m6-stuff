@@ -75,6 +75,8 @@ Why might Manufacturer be reported as Android?
 
 Perhaps Braava jet m6 runs android?
 
+note: adb devices does not find anything.
+
 # Ethernet port
 I also get a usb0 ethernet port:
 
